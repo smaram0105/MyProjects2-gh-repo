@@ -1,1 +1,3 @@
 Hello and Welcome to Git and GitHub Course
+Learn Git and GitHub
+Git and AWS good for getting a good Job
